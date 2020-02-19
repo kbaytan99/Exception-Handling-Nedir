@@ -1,6 +1,6 @@
 package Exceptions;
 
-public class Try_ve_Catch_Bloklari_ile_›stisna_Yakalama {
+public class Try_ve_Catch_Bloklari_ile_√ùstisna_Yakalama {
 
 public static void main(String[] args) {
 //	int a = 30 / 0; // UNCHECKED EXCEPTIONS
@@ -10,7 +10,7 @@ public static void main(String[] args) {
 //	Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 10
 //	at Exceptions.Main.main(Main.java:11)
 //	System.out.println(b[10]);
-//	System.out.println("Burasi «alisiyor");
+//	System.out.println("Burasi √áalisiyor");
 	
 	
 	try {
@@ -27,8 +27,8 @@ public static void main(String[] args) {
 	catch (Exception e) {
 		System.out.println("Bir Hata Olustu");
 	}
-	System.out.println("Burasi «alisiyor");
+	System.out.println("Burasi √áalisiyor");
 	
-}
+} 
 
 }
